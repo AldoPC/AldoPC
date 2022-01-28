@@ -2,6 +2,9 @@
 
 I'm Aldo Ponce, currently stuying a bachelor's degree in Computer Science and Technology at Tecnológico de Monterrey CCM.
 
+[![Gmail Badge](https://img.shields.io/badge/-aldoponcedelacruz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldoponcedelacruz@gmail.com)](mailto:aldoponcedelacruz@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-AldoPC-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/AldoPC/)](https://github.com/AldoPC/)
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
