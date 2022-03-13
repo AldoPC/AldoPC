@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Aldo
 
-I'm Aldo Ponce, currently stuying a bachelor's degree in Computer Science and Technology at Tecnológico de Monterrey CCM.
+Hi, I'm Aldo Ponce. Currently studying for a bachelor's degree in Computer Science and Technology at Tecnológico de Monterrey CCM.
 
 [![Gmail Badge](https://img.shields.io/badge/-aldoponcedelacruz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldoponcedelacruz@gmail.com)](mailto:aldoponcedelacruz@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-AldoPC-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/AldoPC/)](https://github.com/AldoPC/)
